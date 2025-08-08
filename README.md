@@ -1,12 +1,12 @@
-!--<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0E75B6&width=435&lines=Hi,+I'm+Anshuman+Acharya;Full+Stack+Dev+%7C+Data+Science+Enthusiast+%7C+Artist" alt="Typing SVG">
-</p>
+#<p align="center">
+ # <img src="https://readme-typing-svg.herokuapp.com?#font=Fira+Code&size=32&pause=1000&color=0E75B6&width=435&lines=Hi,+I'm+Anshuman+Acharya;Full+Stack+Dev+%7C+Data+Science+Ent#husiast+%7C+Artist" alt="Typing SVG">
+#</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anshuman-a-acharya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/ans_hu_x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p> --!
+#<p align="center">
+ # <a href="https://www.linkedin.com/in/anshuman-a-acharya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?#style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ # <a href="https://instagram.com/ans_hu_x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-#badge&logo=instagram&logoColor=white"></a>
+ # <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-#badge&logo=gmail&logoColor=white"></a>
+#</p> 
 
 ---
 
