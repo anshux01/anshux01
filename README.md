@@ -41,9 +41,9 @@
 ---
 
 ## 🏆 Achievements & Highlights
-- 🏅 Hackathons: Participant in XYZ Hack '24
+- 
 - ✨ Open Source: Contributor to n8n, documented WhatsApp bots and tools with a focus on open documentation
-- 📜 Blogs: [My Dev Blog](#) — Insights on full stack and open-source AI tools
+- 📜 
 
 ---
 
