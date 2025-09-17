@@ -6,7 +6,7 @@
 
 - 💼 Actively seeking Internship / Entry-Level Opportunities
 
-- 🎯 Goal for 2025: Deliver impactful projects combining Web Development and AI
+- 🎯 Goal for 2025: Deliver impactful projects combining Web Development, Machine Learning and AI
 
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/anshuman-a-acharya)
  | [Instagram](https://instagram.com/ans_hu_x)
