@@ -34,11 +34,6 @@
 
  ---
 
-## 🏆 Achievements & Highlights
-
-- ✨ Open Source Contributor: Contributed to n8n, creating documentation and tools for WhatsApp automation
-
-- 📚 Continuous Learner: Constantly exploring AI, Web Development, and Data Science technologies
 
 ---
 
